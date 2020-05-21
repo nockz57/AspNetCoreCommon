@@ -1,0 +1,10 @@
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\bin\Debug\FastfoodCafeDB.dacpac
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\bin\Debug\FastfoodCafeDB.dll
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\bin\Debug\FastfoodCafeDB.pdb
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\obj\Debug\FastfoodCafeDB.sqlprojAssemblyReference.cache
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\obj\Debug\Model.xml
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\obj\Debug\refactor.xml
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\obj\Debug\postdeploy.sql
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\obj\Debug\predeploy.sql
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\obj\Debug\FastfoodCafeDB.dll
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\obj\Debug\FastfoodCafeDB.pdb
