@@ -1,0 +1,9 @@
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\bin\Release\FastfoodCafeDB.dacpac
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\bin\Release\FastfoodCafeDB.dll
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\bin\Release\FastfoodCafeDB.pdb
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\obj\Release\Model.xml
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\obj\Release\refactor.xml
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\obj\Release\postdeploy.sql
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\obj\Release\predeploy.sql
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\obj\Release\FastfoodCafeDB.dll
+C:\Users\mphet\source\home\AspNetCoreCommon\FastfoodCafeDB\obj\Release\FastfoodCafeDB.pdb

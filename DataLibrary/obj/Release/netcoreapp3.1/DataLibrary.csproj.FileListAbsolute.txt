@@ -1,0 +1,9 @@
+C:\Users\mphet\source\home\AspNetCoreCommon\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.deps.json
+C:\Users\mphet\source\home\AspNetCoreCommon\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.dll
+C:\Users\mphet\source\home\AspNetCoreCommon\DataLibrary\bin\Release\netcoreapp3.1\DataLibrary.pdb
+C:\Users\mphet\source\home\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
+C:\Users\mphet\source\home\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mphet\source\home\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\mphet\source\home\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
+C:\Users\mphet\source\home\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.dll
+C:\Users\mphet\source\home\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.pdb
