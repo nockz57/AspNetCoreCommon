@@ -21,6 +21,11 @@ namespace DataLibrary.Data
             _connectionString = connectionString;
         }
 
+        public Task<List<OrderModel>> GetOrders()
+        {
+            return _dataAccess.LoadData<OrderModel, dynamic>("spOrders_All", new { }, _connectionString.SqlConnectionName);
+        }
+
         public async Task<int> CreateOrder(OrderModel order)
         {
             DynamicParameters p = new DynamicParameters();
@@ -42,7 +47,7 @@ namespace DataLibrary.Data
             return _dataAccess.SaveData("dbo.spOrders_UpdateName", new { Id = orderId, OrderName = orderName }, _connectionString.SqlConnectionName);
         }
 
-        public Task<int> Delete(int orderId)
+        public Task<int> DeleteOrder(int orderId)
         {
             return _dataAccess.SaveData("dbo.spOrders_Delete", new { Id = orderId }, _connectionString.SqlConnectionName);
         }
